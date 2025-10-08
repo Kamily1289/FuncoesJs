@@ -7,14 +7,12 @@
 ## DECLARATION:
 **A função declaration é responsável por declarar uma função,ou seja tem como objetivo "dizer" ao compilador que a função existe,mais também pode ser chamada antes da declaração ser escrita,com por exemplo: Um aluno ler um texto e "anota" as palavras-chaves do texto,se fazermos uma pergunta para esse aluno ele irá responder corretamente, teria uma "base" para tal questão,da mesma forma é o compilador que lê o código e "anota" as declaration das funções. Por esse motivo pode-se usar em qualquer lugar do escopo.**
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
 ### CARACTERÍSTICAS:
 
-##### VATAGENS: 
+##### -VATAGENS: 
 **Versatilidade, durabilidade, sensação de confiança.**
 
-##### DESVATAGENS:
+##### -DESVATAGENS:
 **Não é flexivel.**
 
 CÓDIGO DE EXEMPLO:
@@ -39,10 +37,10 @@ console.log(mensagem1);
 
 ### CARACTERÍSTICAS:
 
-##### VATAGENS:
+##### -VATAGENS:
 **Funções anônimas, atribuição a variáveis ,possibilidade de autoexecução, não há elevação (hoisting).**
 
-##### DESVATAGENS:
+##### -DESVATAGENS:
 **Não é ultilizado para códigos grandes pela falta de estrutura, segurança e dificuldades no desenpenho.**
 
 CÓDIGO DE EXEMPLO:
@@ -71,8 +69,8 @@ CÓDIGO DE EXEMPLO:
   ```  
 ### CARACTERÍSTICAS:
 
-##### VATAGENS:
+##### -VATAGENS:
 **Retorno implícito, simplificação de callbacks , sintaxe concisa.**
 
-##### DESVANTAGENS:
+##### -DESVANTAGENS:
 **Falta do ```this``` (herdando ```this``` do escopo).**
