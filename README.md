@@ -87,3 +87,11 @@ ultiliza o sinal "=>" para subistituir o (fuction).**
 
 ##### -DESVANTAGENS:
 **Falta do ```this``` (herdando ```this``` do escopo).**
+
+> [!TIP]
+> CÓDIGO DE EXEMPLO:
+
+```
+const soma = (U, P) => U+ P;
+
+```
