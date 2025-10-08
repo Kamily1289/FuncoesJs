@@ -13,8 +13,7 @@
 
 CÓDIGO DE EXEMPLO:
 
-
-'''
+```
 
 function saudarPessoa(nome, sobrenome)
 
@@ -27,7 +26,7 @@ const mensagem1 = saudarPessoa('Kamily', 'Guedes');
 
 console.log(mensagem1); 
 
-
+```
 
 ### EXPRESSION:
 **É uma forma de definir uma função que é criada como parte de uma expressão maior.Tem como objetivo principal realizar tarefas específicas de um código e trata as funções como valores, sendo assim o código vai se tornar mais flexível e fácil. A maioria das funções expression são anônimas.**
@@ -56,11 +55,10 @@ ultiliza o sinal "=>" para subistituir o (fuction).**
 
 CÓDIGO DE EXEMPLO:
 
-'''
-
+```
  const cumprimentar = (sobrenome) => `Olá, ${sobrenome}!`;
     console.log(cumprimentar("sra.Guedes")); 
-    
-'''
+  ```  
+
 #### VATAGENS:
 **Retorno implícito, simplificação de callbacks , sintaxe concis.**
