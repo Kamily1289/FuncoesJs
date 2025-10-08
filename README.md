@@ -27,7 +27,7 @@ const mensagem1 = saudarPessoa('Kamily', 'Guedes');
 
 console.log(mensagem1); 
 
-'''
+
 
 ### EXPRESSION:
 **É uma forma de definir uma função que é criada como parte de uma expressão maior.Tem como objetivo principal realizar tarefas específicas de um código e trata as funções como valores, sendo assim o código vai se tornar mais flexível e fácil. A maioria das funções expression são anônimas.**
@@ -38,7 +38,7 @@ console.log(mensagem1);
 
 CÓDIGO DE EXEMPLO:
 
-'''
+```
 
 const calcularArea = function(largura, altura) {
   return largura * altura;
@@ -48,7 +48,7 @@ const calcularArea = function(largura, altura) {
 const area = calcularArea(15, 2);
 console.log(`A área é: ${area}`);
 
-'''
+```
 
 ### ARROW:
 **Tem como objetivo reduzir/responder códigos curto, deixa o código mais limpos e consequentemente aumentado a legibilidade, 
