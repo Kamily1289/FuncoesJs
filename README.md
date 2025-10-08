@@ -10,11 +10,13 @@
 > [!NOTE]
 > CARACTERÍSTICAS-GERAIS:
 
+
 ##### -VATAGENS: 
 **Versatilidade, durabilidade, sensação de confiança.**
 
 ##### -DESVATAGENS:
 **Não é flexivel.**
+
 
 > [!TIP]
 > CÓDIGO DE EXEMPLO:
@@ -40,11 +42,13 @@ console.log(mensagem1);
 > [!NOTE]
 > CARACTERÍSTICAS-GERAIS:
 
+
 ##### -VATAGENS:
 **Funções anônimas, atribuição a variáveis ,possibilidade de autoexecução, não há elevação (hoisting).**
 
 ##### -DESVATAGENS:
 **Não é ultilizado para códigos grandes pela falta de estrutura, segurança e dificuldades no desenpenho.**
+
 
 > [!TIP]
 > CÓDIGO DE EXEMPLO:
@@ -65,6 +69,7 @@ console.log(`A área é: ${area}`);
 **Tem como objetivo reduzir/responder códigos curto, deixa o código mais limpos e consequentemente aumentado a legibilidade, 
 ultiliza o sinal "=>" para subistituir o (fuction).**
 
+
 > [!TIP]
 > CÓDIGO DE EXEMPLO:
 
@@ -73,9 +78,10 @@ ultiliza o sinal "=>" para subistituir o (fuction).**
     console.log(cumprimentar("sra.Guedes")); 
   ```  
 
+
 > [!NOTE]
 > CARACTERÍSTICAS-GERAIS:
-> 
+
 ##### -VATAGENS:
 **Retorno implícito, simplificação de callbacks , sintaxe concisa.**
 
