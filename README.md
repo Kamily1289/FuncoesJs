@@ -4,8 +4,10 @@
 
 ## Definições:
 
-### DECLARATION:
+## DECLARATION:
 **A função declaration é responsável por declarar uma função,ou seja tem como objetivo "dizer" ao compilador que a função existe,mais também pode ser chamada antes da declaração ser escrita,com por exemplo: Um aluno ler um texto e "anota" as palavras-chaves do texto,se fazermos uma pergunta para esse aluno ele irá responder corretamente, teria uma "base" para tal questão,da mesma forma é o compilador que lê o código e "anota" as declaration das funções. Por esse motivo pode-se usar em qualquer lugar do escopo.**
+
+### CARACTERÍSTICAS:
 
 ##### VATAGENS: 
 
@@ -31,9 +33,10 @@ console.log(mensagem1);
 
 ```
 
-### EXPRESSION:
+## EXPRESSION:
 **É uma forma de definir uma função que é criada como parte de uma expressão maior.Tem como objetivo principal realizar tarefas específicas de um código e trata as funções como valores, sendo assim o código vai se tornar mais flexível e fácil. A maioria das funções expression são anônimas.**
 
+###
 ##### VATAGENS:
 **Funções anônimas, atribuição a variáveis ,possibilidade de autoexecução, não há elevação (hoisting).**
 
