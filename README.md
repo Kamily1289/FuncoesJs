@@ -23,16 +23,13 @@
 
 ```
 
-function saudarPessoa(nome, sobrenome)
+function saudarPessoa(nome, sobrenome) { 
+  return `Olá, ${nome} ${sobrenome}! BEM-VINDA:)`; 
+} 
 
-  return `Olá, ${nome} ${sobrenome}! BEM-VINDA:).`;
-
-}
-
-const mensagem1 = saudarPessoa('Kamily', 'Guedes');
-
-
+const mensagem1 = saudarPessoa('Kamily', 'Guedes'); 
 console.log(mensagem1); 
+
 
 ```
 
