@@ -23,6 +23,6 @@ console.log(mensagem1);
 
 
 ### EXPRESSION:
-**
+**É uma forma de definir uma função que é criada como parte de uma expressão maior.Tem como objetivo principal tratar as funções como valores, sendo assim o código vai se tornar mais flexível e fácil.
 
 ### ARROW:
