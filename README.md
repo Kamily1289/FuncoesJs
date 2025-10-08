@@ -11,6 +11,8 @@
 
 **Versatilidade, durabilidade, sensação de confiança.**
 
+##### DESVATAGENS:
+**Não é flexivel.
 
 CÓDIGO DE EXEMPLO:
 
@@ -35,6 +37,7 @@ console.log(mensagem1);
 ##### VATAGENS:
 **Funções anônimas, atribuição a variáveis ,possibilidade de autoexecução, não há elevação (hoisting).**
 
+##### D
 
 CÓDIGO DE EXEMPLO:
 
@@ -62,4 +65,4 @@ CÓDIGO DE EXEMPLO:
   ```  
 
 ##### VATAGENS:
-**Retorno implícito, simplificação de callbacks , sintaxe concis.**
+**Retorno implícito, simplificação de callbacks , sintaxe concisa.**
