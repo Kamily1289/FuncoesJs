@@ -12,7 +12,7 @@
 **Versatilidade, durabilidade, sensação de confiança.**
 
 ##### DESVATAGENS:
-**Não é flexivel.
+**Não é flexivel.**
 
 CÓDIGO DE EXEMPLO:
 
@@ -37,7 +37,8 @@ console.log(mensagem1);
 ##### VATAGENS:
 **Funções anônimas, atribuição a variáveis ,possibilidade de autoexecução, não há elevação (hoisting).**
 
-##### D
+##### DESVATAGENS:
+**Não é ultilizado para códigos grandes pela falta de estrutura, segurança e dificuldades no desenpenho.**
 
 CÓDIGO DE EXEMPLO:
 
@@ -66,3 +67,6 @@ CÓDIGO DE EXEMPLO:
 
 ##### VATAGENS:
 **Retorno implícito, simplificação de callbacks , sintaxe concisa.**
+
+##### DESVANTAGENS:
+**Falta do ```this```
