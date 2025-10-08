@@ -63,7 +63,7 @@ console.log(`A área é: ${area}`);
 
 ```
 
-### ARROW:
+## ARROW:
 **Tem como objetivo reduzir/responder códigos curto, deixa o código mais limpos e consequentemente aumentado a legibilidade, 
 ultiliza o sinal "=>" para subistituir o (fuction).**
 
