@@ -95,5 +95,6 @@ ultiliza o sinal "=>" para subistituir o (fuction).**
 const soma = (U, P) => U+ P;
 
 ```
-> [!CONCLUSÃO]
+> [!IMPORTANT]
+> CONCLUSÃO.
 
