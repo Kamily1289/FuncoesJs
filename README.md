@@ -59,7 +59,6 @@ CÓDIGO DE EXEMPLO:
 '''
 
  const cumprimentar = (sobrenome) => `Olá, ${sobrenome}!`;
- 
     console.log(cumprimentar("sra.Guedes")); 
     
 '''
