@@ -11,10 +11,10 @@
 > CARACTERÍSTICAS-GERAIS:
 
 
-##### -VATAGENS: 
+##### -VANTAGENS: 
 **Versatilidade, durabilidade, sensação de confiança.**
 
-##### -DESVATAGENS:
+##### -DESVANTAGENS:
 **Não é flexivel.**
 
 
@@ -40,10 +40,10 @@ console.log(mensagem1);
 > CARACTERÍSTICAS-GERAIS:
 
 
-##### -VATAGENS:
+##### -VANTAGENS:
 **Funções anônimas, atribuição a variáveis ,possibilidade de autoexecução, não há elevação (hoisting).**
 
-##### -DESVATAGENS:
+##### -DESVANTAGENS:
 **Não é ultilizado para códigos grandes pela falta de estrutura, segurança e dificuldades no desenpenho.**
 
 
@@ -79,7 +79,7 @@ ultiliza o sinal "=>" para subistituir o (fuction).**
 > [!NOTE]
 > CARACTERÍSTICAS-GERAIS:
 
-##### -VATAGENS:
+##### -VANTAGENS:
 **Retorno implícito, simplificação de callbacks , sintaxe concisa.**
 
 ##### -DESVANTAGENS:
