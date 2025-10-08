@@ -8,6 +8,7 @@
 
 **Versatilidade,durabilidade,sensação de confiança.**
 
+
 CÓDIGO DE EXEMPLO:
 
 
@@ -29,6 +30,9 @@ console.log(mensagem1);
 ### EXPRESSION:
 **É uma forma de definir uma função que é criada como parte de uma expressão maior.Tem como objetivo principal realizar tarefas específicas de um código e trata as funções como valores, sendo assim o código vai se tornar mais flexível e fácil. A maioria das funções expression são anônimas.**
 
+#### VATAGENS:
+**Funções anônimas,atribuição a variáveis,possibilidade de autoexecução,não há elevação (hoisting).**
+
 
 CÓDIGO DE EXEMPLO:
 
@@ -45,4 +49,7 @@ console.log(`A área é: ${area}`);
 '''
 
 ### ARROW:
-**Tem como objetivo responder códigos mais curto, resolve problemas relacionados à palavra (this).
+**Tem como objetivo responder códigos mais curto, resolve problemas relacionados à palavra (this).**
+
+#### VATAGENS:
+**Retorno implícito,simplificação de callbacks,sintaxe concis.**
