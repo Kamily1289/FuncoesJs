@@ -16,7 +16,8 @@
 ##### -DESVATAGENS:
 **Não é flexivel.**
 
-CÓDIGO DE EXEMPLO:
+> [!TIP]
+> CÓDIGO DE EXEMPLO:
 
 ```
 
@@ -45,7 +46,8 @@ console.log(mensagem1);
 ##### -DESVATAGENS:
 **Não é ultilizado para códigos grandes pela falta de estrutura, segurança e dificuldades no desenpenho.**
 
-CÓDIGO DE EXEMPLO:
+> [!TIP]
+> CÓDIGO DE EXEMPLO:
 
 ```
 
@@ -63,7 +65,8 @@ console.log(`A área é: ${area}`);
 **Tem como objetivo reduzir/responder códigos curto, deixa o código mais limpos e consequentemente aumentado a legibilidade, 
 ultiliza o sinal "=>" para subistituir o (fuction).**
 
-CÓDIGO DE EXEMPLO:
+> [!TIP]
+> CÓDIGO DE EXEMPLO:
 
 ```
  const cumprimentar = (sobrenome) => `Olá, ${sobrenome}!`;
